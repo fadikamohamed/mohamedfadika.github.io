@@ -53,4 +53,4 @@ $('#ancre').waypoint(function(direction) {
   } else {
   }
 });
-});
+});*/
